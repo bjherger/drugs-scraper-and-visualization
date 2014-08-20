@@ -1,0 +1,1682 @@
+[
+  {
+    "state":"VERMONT",
+    "age":" 12+",
+    "pastMonth":12.86,
+    "FIELD4":" "
+  },
+  {
+    "state":"VERMONT",
+    "age":" 12-17",
+    "pastMonth":13.36,
+    "FIELD4":" "
+  },
+  {
+    "state":"VERMONT",
+    "age":" 18-25",
+    "pastMonth":33.18,
+    "FIELD4":" "
+  },
+  {
+    "state":"VERMONT",
+    "age":" 26+",
+    "pastMonth":9.34,
+    "FIELD4":" "
+  },
+  {
+    "state":"VERMONT",
+    "age":" 18+",
+    "pastMonth":12.82,
+    "FIELD4":" "
+  },
+  {
+    "state":"GEORGIA",
+    "age":" 12+",
+    "pastMonth":5.96,
+    "FIELD4":" "
+  },
+  {
+    "state":"GEORGIA",
+    "age":" 12-17",
+    "pastMonth":7.2,
+    "FIELD4":" "
+  },
+  {
+    "state":"GEORGIA",
+    "age":" 18-25",
+    "pastMonth":16.65,
+    "FIELD4":" "
+  },
+  {
+    "state":"GEORGIA",
+    "age":" 26+",
+    "pastMonth":3.88,
+    "FIELD4":" "
+  },
+  {
+    "state":"GEORGIA",
+    "age":" 18+",
+    "pastMonth":5.82,
+    "FIELD4":" "
+  },
+  {
+    "state":"IOWA",
+    "age":" 12+",
+    "pastMonth":6.1,
+    "FIELD4":" "
+  },
+  {
+    "state":"IOWA",
+    "age":" 12-17",
+    "pastMonth":6.65,
+    "FIELD4":" "
+  },
+  {
+    "state":"IOWA",
+    "age":" 18-25",
+    "pastMonth":16.84,
+    "FIELD4":" "
+  },
+  {
+    "state":"IOWA",
+    "age":" 26+",
+    "pastMonth":4.13,
+    "FIELD4":" "
+  },
+  {
+    "state":"IOWA",
+    "age":" 18+",
+    "pastMonth":6.04,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH REGION",
+    "age":" 12+",
+    "pastMonth":5.83,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH REGION",
+    "age":" 12-17",
+    "pastMonth":6.65,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH REGION",
+    "age":" 18-25",
+    "pastMonth":16.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH REGION",
+    "age":" 26+",
+    "pastMonth":3.91,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH REGION",
+    "age":" 18+",
+    "pastMonth":5.74,
+    "FIELD4":" "
+  },
+  {
+    "state":"MIDWEST REGION",
+    "age":" 12+",
+    "pastMonth":6.86,
+    "FIELD4":" "
+  },
+  {
+    "state":"MIDWEST REGION",
+    "age":" 12-17",
+    "pastMonth":7.29,
+    "FIELD4":" "
+  },
+  {
+    "state":"MIDWEST REGION",
+    "age":" 18-25",
+    "pastMonth":18.53,
+    "FIELD4":" "
+  },
+  {
+    "state":"MIDWEST REGION",
+    "age":" 26+",
+    "pastMonth":4.81,
+    "FIELD4":" "
+  },
+  {
+    "state":"MIDWEST REGION",
+    "age":" 18+",
+    "pastMonth":6.81,
+    "FIELD4":" "
+  },
+  {
+    "state":"KANSAS",
+    "age":" 12+",
+    "pastMonth":4.06,
+    "FIELD4":" "
+  },
+  {
+    "state":"KANSAS",
+    "age":" 12-17",
+    "pastMonth":5.47,
+    "FIELD4":" "
+  },
+  {
+    "state":"KANSAS",
+    "age":" 18-25",
+    "pastMonth":11.34,
+    "FIELD4":" "
+  },
+  {
+    "state":"KANSAS",
+    "age":" 26+",
+    "pastMonth":2.55,
+    "FIELD4":" "
+  },
+  {
+    "state":"KANSAS",
+    "age":" 18+",
+    "pastMonth":3.9,
+    "FIELD4":" "
+  },
+  {
+    "state":"FLORIDA",
+    "age":" 12+",
+    "pastMonth":6.65,
+    "FIELD4":" "
+  },
+  {
+    "state":"FLORIDA",
+    "age":" 12-17",
+    "pastMonth":7.03,
+    "FIELD4":" "
+  },
+  {
+    "state":"FLORIDA",
+    "age":" 18-25",
+    "pastMonth":19.02,
+    "FIELD4":" "
+  },
+  {
+    "state":"FLORIDA",
+    "age":" 26+",
+    "pastMonth":4.73,
+    "FIELD4":" "
+  },
+  {
+    "state":"FLORIDA",
+    "age":" 18+",
+    "pastMonth":6.61,
+    "FIELD4":" "
+  },
+  {
+    "state":"VIRGINIA",
+    "age":" 12+",
+    "pastMonth":5.54,
+    "FIELD4":" "
+  },
+  {
+    "state":"VIRGINIA",
+    "age":" 12-17",
+    "pastMonth":6.61,
+    "FIELD4":" "
+  },
+  {
+    "state":"VIRGINIA",
+    "age":" 18-25",
+    "pastMonth":17.06,
+    "FIELD4":" "
+  },
+  {
+    "state":"VIRGINIA",
+    "age":" 26+",
+    "pastMonth":3.44,
+    "FIELD4":" "
+  },
+  {
+    "state":"VIRGINIA",
+    "age":" 18+",
+    "pastMonth":5.43,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH CAROLINA",
+    "age":" 12+",
+    "pastMonth":6.49,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH CAROLINA",
+    "age":" 12-17",
+    "pastMonth":7.69,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH CAROLINA",
+    "age":" 18-25",
+    "pastMonth":19.28,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH CAROLINA",
+    "age":" 26+",
+    "pastMonth":4.24,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH CAROLINA",
+    "age":" 18+",
+    "pastMonth":6.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALASKA",
+    "age":" 12+",
+    "pastMonth":12.97,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALASKA",
+    "age":" 12-17",
+    "pastMonth":10.01,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALASKA",
+    "age":" 18-25",
+    "pastMonth":24.77,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALASKA",
+    "age":" 26+",
+    "pastMonth":11.18,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALASKA",
+    "age":" 18+",
+    "pastMonth":13.31,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTHEAST REGION",
+    "age":" 12+",
+    "pastMonth":7.72,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTHEAST REGION",
+    "age":" 12-17",
+    "pastMonth":8.05,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTHEAST REGION",
+    "age":" 18-25",
+    "pastMonth":21.34,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTHEAST REGION",
+    "age":" 26+",
+    "pastMonth":5.4,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTHEAST REGION",
+    "age":" 18+",
+    "pastMonth":7.69,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW YORK",
+    "age":" 12+",
+    "pastMonth":8.24,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW YORK",
+    "age":" 12-17",
+    "pastMonth":7.86,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW YORK",
+    "age":" 18-25",
+    "pastMonth":21.35,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW YORK",
+    "age":" 26+",
+    "pastMonth":5.98,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW YORK",
+    "age":" 18+",
+    "pastMonth":8.28,
+    "FIELD4":" "
+  },
+  {
+    "state":"CALIFORNIA",
+    "age":" 12+",
+    "pastMonth":9.08,
+    "FIELD4":" "
+  },
+  {
+    "state":"CALIFORNIA",
+    "age":" 12-17",
+    "pastMonth":8.83,
+    "FIELD4":" "
+  },
+  {
+    "state":"CALIFORNIA",
+    "age":" 18-25",
+    "pastMonth":21.74,
+    "FIELD4":" "
+  },
+  {
+    "state":"CALIFORNIA",
+    "age":" 26+",
+    "pastMonth":6.74,
+    "FIELD4":" "
+  },
+  {
+    "state":"CALIFORNIA",
+    "age":" 18+",
+    "pastMonth":9.11,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALABAMA",
+    "age":" 12+",
+    "pastMonth":5.07,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALABAMA",
+    "age":" 12-17",
+    "pastMonth":5.62,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALABAMA",
+    "age":" 18-25",
+    "pastMonth":14.34,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALABAMA",
+    "age":" 26+",
+    "pastMonth":3.38,
+    "FIELD4":" "
+  },
+  {
+    "state":"ALABAMA",
+    "age":" 18+",
+    "pastMonth":5.02,
+    "FIELD4":" "
+  },
+  {
+    "state":"IDAHO",
+    "age":" 12+",
+    "pastMonth":5.29,
+    "FIELD4":" "
+  },
+  {
+    "state":"IDAHO",
+    "age":" 12-17",
+    "pastMonth":6.21,
+    "FIELD4":" "
+  },
+  {
+    "state":"IDAHO",
+    "age":" 18-25",
+    "pastMonth":13.09,
+    "FIELD4":" "
+  },
+  {
+    "state":"IDAHO",
+    "age":" 26+",
+    "pastMonth":3.77,
+    "FIELD4":" "
+  },
+  {
+    "state":"IDAHO",
+    "age":" 18+",
+    "pastMonth":5.18,
+    "FIELD4":" "
+  },
+  {
+    "state":"DELAWARE",
+    "age":" 12+",
+    "pastMonth":7.49,
+    "FIELD4":" "
+  },
+  {
+    "state":"DELAWARE",
+    "age":" 12-17",
+    "pastMonth":9.58,
+    "FIELD4":" "
+  },
+  {
+    "state":"DELAWARE",
+    "age":" 18-25",
+    "pastMonth":20.95,
+    "FIELD4":" "
+  },
+  {
+    "state":"DELAWARE",
+    "age":" 26+",
+    "pastMonth":4.95,
+    "FIELD4":" "
+  },
+  {
+    "state":"DELAWARE",
+    "age":" 18+",
+    "pastMonth":7.28,
+    "FIELD4":" "
+  },
+  {
+    "state":"HAWAII",
+    "age":" 12+",
+    "pastMonth":7.57,
+    "FIELD4":" "
+  },
+  {
+    "state":"HAWAII",
+    "age":" 12-17",
+    "pastMonth":9.69,
+    "FIELD4":" "
+  },
+  {
+    "state":"HAWAII",
+    "age":" 18-25",
+    "pastMonth":18.15,
+    "FIELD4":" "
+  },
+  {
+    "state":"HAWAII",
+    "age":" 26+",
+    "pastMonth":5.69,
+    "FIELD4":" "
+  },
+  {
+    "state":"HAWAII",
+    "age":" 18+",
+    "pastMonth":7.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"ILLINOIS",
+    "age":" 12+",
+    "pastMonth":7.03,
+    "FIELD4":" "
+  },
+  {
+    "state":"ILLINOIS",
+    "age":" 12-17",
+    "pastMonth":6.94,
+    "FIELD4":" "
+  },
+  {
+    "state":"ILLINOIS",
+    "age":" 18-25",
+    "pastMonth":20.27,
+    "FIELD4":" "
+  },
+  {
+    "state":"ILLINOIS",
+    "age":" 26+",
+    "pastMonth":4.79,
+    "FIELD4":" "
+  },
+  {
+    "state":"ILLINOIS",
+    "age":" 18+",
+    "pastMonth":7.04,
+    "FIELD4":" "
+  },
+  {
+    "state":"CONNECTICUT",
+    "age":" 12+",
+    "pastMonth":8.44,
+    "FIELD4":" "
+  },
+  {
+    "state":"CONNECTICUT",
+    "age":" 12-17",
+    "pastMonth":8.72,
+    "FIELD4":" "
+  },
+  {
+    "state":"CONNECTICUT",
+    "age":" 18-25",
+    "pastMonth":23.66,
+    "FIELD4":" "
+  },
+  {
+    "state":"CONNECTICUT",
+    "age":" 26+",
+    "pastMonth":6.01,
+    "FIELD4":" "
+  },
+  {
+    "state":"CONNECTICUT",
+    "age":" 18+",
+    "pastMonth":8.41,
+    "FIELD4":" "
+  },
+  {
+    "state":"TENNESSEE",
+    "age":" 12+",
+    "pastMonth":5.41,
+    "FIELD4":" "
+  },
+  {
+    "state":"TENNESSEE",
+    "age":" 12-17",
+    "pastMonth":5.92,
+    "FIELD4":" "
+  },
+  {
+    "state":"TENNESSEE",
+    "age":" 18-25",
+    "pastMonth":14.7,
+    "FIELD4":" "
+  },
+  {
+    "state":"TENNESSEE",
+    "age":" 26+",
+    "pastMonth":3.81,
+    "FIELD4":" "
+  },
+  {
+    "state":"TENNESSEE",
+    "age":" 18+",
+    "pastMonth":5.35,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSOURI",
+    "age":" 12+",
+    "pastMonth":5.94,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSOURI",
+    "age":" 12-17",
+    "pastMonth":7.28,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSOURI",
+    "age":" 18-25",
+    "pastMonth":17.41,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSOURI",
+    "age":" 26+",
+    "pastMonth":3.83,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSOURI",
+    "age":" 18+",
+    "pastMonth":5.8,
+    "FIELD4":" "
+  },
+  {
+    "state":"MASSACHUSETTS",
+    "age":" 12+",
+    "pastMonth":9.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"MASSACHUSETTS",
+    "age":" 12-17",
+    "pastMonth":10.58,
+    "FIELD4":" "
+  },
+  {
+    "state":"MASSACHUSETTS",
+    "age":" 18-25",
+    "pastMonth":25.77,
+    "FIELD4":" "
+  },
+  {
+    "state":"MASSACHUSETTS",
+    "age":" 26+",
+    "pastMonth":6.34,
+    "FIELD4":" "
+  },
+  {
+    "state":"MASSACHUSETTS",
+    "age":" 18+",
+    "pastMonth":9.25,
+    "FIELD4":" "
+  },
+  {
+    "state":"OHIO",
+    "age":" 12+",
+    "pastMonth":7.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"OHIO",
+    "age":" 12-17",
+    "pastMonth":7.53,
+    "FIELD4":" "
+  },
+  {
+    "state":"OHIO",
+    "age":" 18-25",
+    "pastMonth":19.22,
+    "FIELD4":" "
+  },
+  {
+    "state":"OHIO",
+    "age":" 26+",
+    "pastMonth":5.39,
+    "FIELD4":" "
+  },
+  {
+    "state":"OHIO",
+    "age":" 18+",
+    "pastMonth":7.35,
+    "FIELD4":" "
+  },
+  {
+    "state":"MARYLAND",
+    "age":" 12+",
+    "pastMonth":5.81,
+    "FIELD4":" "
+  },
+  {
+    "state":"MARYLAND",
+    "age":" 12-17",
+    "pastMonth":7.54,
+    "FIELD4":" "
+  },
+  {
+    "state":"MARYLAND",
+    "age":" 18-25",
+    "pastMonth":17.53,
+    "FIELD4":" "
+  },
+  {
+    "state":"MARYLAND",
+    "age":" 26+",
+    "pastMonth":3.66,
+    "FIELD4":" "
+  },
+  {
+    "state":"MARYLAND",
+    "age":" 18+",
+    "pastMonth":5.64,
+    "FIELD4":" "
+  },
+  {
+    "state":"WASHINGTON",
+    "age":" 12+",
+    "pastMonth":10.21,
+    "FIELD4":" "
+  },
+  {
+    "state":"WASHINGTON",
+    "age":" 12-17",
+    "pastMonth":9.45,
+    "FIELD4":" "
+  },
+  {
+    "state":"WASHINGTON",
+    "age":" 18-25",
+    "pastMonth":23.44,
+    "FIELD4":" "
+  },
+  {
+    "state":"WASHINGTON",
+    "age":" 26+",
+    "pastMonth":8.11,
+    "FIELD4":" "
+  },
+  {
+    "state":"WASHINGTON",
+    "age":" 18+",
+    "pastMonth":10.29,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARKANSAS",
+    "age":" 12+",
+    "pastMonth":5.3,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARKANSAS",
+    "age":" 12-17",
+    "pastMonth":6.01,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARKANSAS",
+    "age":" 18-25",
+    "pastMonth":14.71,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARKANSAS",
+    "age":" 26+",
+    "pastMonth":3.61,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARKANSAS",
+    "age":" 18+",
+    "pastMonth":5.22,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW MEXICO",
+    "age":" 12+",
+    "pastMonth":9.14,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW MEXICO",
+    "age":" 12-17",
+    "pastMonth":9.82,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW MEXICO",
+    "age":" 18-25",
+    "pastMonth":21.35,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW MEXICO",
+    "age":" 26+",
+    "pastMonth":6.94,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW MEXICO",
+    "age":" 18+",
+    "pastMonth":9.07,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH DAKOTA",
+    "age":" 12+",
+    "pastMonth":5.79,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH DAKOTA",
+    "age":" 12-17",
+    "pastMonth":6.44,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH DAKOTA",
+    "age":" 18-25",
+    "pastMonth":13.95,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH DAKOTA",
+    "age":" 26+",
+    "pastMonth":4.28,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH DAKOTA",
+    "age":" 18+",
+    "pastMonth":5.72,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST REGION",
+    "age":" 12+",
+    "pastMonth":9.01,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST REGION",
+    "age":" 12-17",
+    "pastMonth":8.81,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST REGION",
+    "age":" 18-25",
+    "pastMonth":21.24,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST REGION",
+    "age":" 26+",
+    "pastMonth":6.83,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST REGION",
+    "age":" 18+",
+    "pastMonth":9.03,
+    "FIELD4":" "
+  },
+  {
+    "state":"COLORADO",
+    "age":" 12+",
+    "pastMonth":10.41,
+    "FIELD4":" "
+  },
+  {
+    "state":"COLORADO",
+    "age":" 12-17",
+    "pastMonth":10.47,
+    "FIELD4":" "
+  },
+  {
+    "state":"COLORADO",
+    "age":" 18-25",
+    "pastMonth":26.81,
+    "FIELD4":" "
+  },
+  {
+    "state":"COLORADO",
+    "age":" 26+",
+    "pastMonth":7.63,
+    "FIELD4":" "
+  },
+  {
+    "state":"COLORADO",
+    "age":" 18+",
+    "pastMonth":10.4,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW JERSEY",
+    "age":" 12+",
+    "pastMonth":6.05,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW JERSEY",
+    "age":" 12-17",
+    "pastMonth":6.85,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW JERSEY",
+    "age":" 18-25",
+    "pastMonth":19.26,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW JERSEY",
+    "age":" 26+",
+    "pastMonth":3.96,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW JERSEY",
+    "age":" 18+",
+    "pastMonth":5.96,
+    "FIELD4":" "
+  },
+  {
+    "state":"UTAH",
+    "age":" 12+",
+    "pastMonth":4.41,
+    "FIELD4":" "
+  },
+  {
+    "state":"UTAH",
+    "age":" 12-17",
+    "pastMonth":5.12,
+    "FIELD4":" "
+  },
+  {
+    "state":"UTAH",
+    "age":" 18-25",
+    "pastMonth":9.83,
+    "FIELD4":" "
+  },
+  {
+    "state":"UTAH",
+    "age":" 26+",
+    "pastMonth":3.04,
+    "FIELD4":" "
+  },
+  {
+    "state":"UTAH",
+    "age":" 18+",
+    "pastMonth":4.31,
+    "FIELD4":" "
+  },
+  {
+    "state":"MICHIGAN",
+    "age":" 12+",
+    "pastMonth":8.89,
+    "FIELD4":" "
+  },
+  {
+    "state":"MICHIGAN",
+    "age":" 12-17",
+    "pastMonth":8.89,
+    "FIELD4":" "
+  },
+  {
+    "state":"MICHIGAN",
+    "age":" 18-25",
+    "pastMonth":22.13,
+    "FIELD4":" "
+  },
+  {
+    "state":"MICHIGAN",
+    "age":" 26+",
+    "pastMonth":6.61,
+    "FIELD4":" "
+  },
+  {
+    "state":"MICHIGAN",
+    "age":" 18+",
+    "pastMonth":8.89,
+    "FIELD4":" "
+  },
+  {
+    "state":"WYOMING",
+    "age":" 12+",
+    "pastMonth":5.68,
+    "FIELD4":" "
+  },
+  {
+    "state":"WYOMING",
+    "age":" 12-17",
+    "pastMonth":6,
+    "FIELD4":" "
+  },
+  {
+    "state":"WYOMING",
+    "age":" 18-25",
+    "pastMonth":13.06,
+    "FIELD4":" "
+  },
+  {
+    "state":"WYOMING",
+    "age":" 26+",
+    "pastMonth":4.36,
+    "FIELD4":" "
+  },
+  {
+    "state":"WYOMING",
+    "age":" 18+",
+    "pastMonth":5.65,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSISSIPPI",
+    "age":" 12+",
+    "pastMonth":5.8,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSISSIPPI",
+    "age":" 12-17",
+    "pastMonth":6.32,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSISSIPPI",
+    "age":" 18-25",
+    "pastMonth":15.86,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSISSIPPI",
+    "age":" 26+",
+    "pastMonth":3.88,
+    "FIELD4":" "
+  },
+  {
+    "state":"MISSISSIPPI",
+    "age":" 18+",
+    "pastMonth":5.74,
+    "FIELD4":" "
+  },
+  {
+    "state":"MINNESOTA",
+    "age":" 12+",
+    "pastMonth":6.3,
+    "FIELD4":" "
+  },
+  {
+    "state":"MINNESOTA",
+    "age":" 12-17",
+    "pastMonth":7.27,
+    "FIELD4":" "
+  },
+  {
+    "state":"MINNESOTA",
+    "age":" 18-25",
+    "pastMonth":17.58,
+    "FIELD4":" "
+  },
+  {
+    "state":"MINNESOTA",
+    "age":" 26+",
+    "pastMonth":4.33,
+    "FIELD4":" "
+  },
+  {
+    "state":"MINNESOTA",
+    "age":" 18+",
+    "pastMonth":6.19,
+    "FIELD4":" "
+  },
+  {
+    "state":"OREGON",
+    "age":" 12+",
+    "pastMonth":12.16,
+    "FIELD4":" "
+  },
+  {
+    "state":"OREGON",
+    "age":" 12-17",
+    "pastMonth":9.86,
+    "FIELD4":" "
+  },
+  {
+    "state":"OREGON",
+    "age":" 18-25",
+    "pastMonth":25.81,
+    "FIELD4":" "
+  },
+  {
+    "state":"OREGON",
+    "age":" 26+",
+    "pastMonth":10.25,
+    "FIELD4":" "
+  },
+  {
+    "state":"OREGON",
+    "age":" 18+",
+    "pastMonth":12.38,
+    "FIELD4":" "
+  },
+  {
+    "state":"UNITED STATES",
+    "age":" 12+",
+    "pastMonth":7.13,
+    "FIELD4":" "
+  },
+  {
+    "state":"UNITED STATES",
+    "age":" 12-17",
+    "pastMonth":7.55,
+    "FIELD4":" "
+  },
+  {
+    "state":"UNITED STATES",
+    "age":" 18-25",
+    "pastMonth":18.89,
+    "FIELD4":" "
+  },
+  {
+    "state":"UNITED STATES",
+    "age":" 26+",
+    "pastMonth":5.05,
+    "FIELD4":" "
+  },
+  {
+    "state":"UNITED STATES",
+    "age":" 18+",
+    "pastMonth":7.09,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH CAROLINA",
+    "age":" 12+",
+    "pastMonth":7.2,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH CAROLINA",
+    "age":" 12-17",
+    "pastMonth":7.24,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH CAROLINA",
+    "age":" 18-25",
+    "pastMonth":19.24,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH CAROLINA",
+    "age":" 26+",
+    "pastMonth":5.15,
+    "FIELD4":" "
+  },
+  {
+    "state":"SOUTH CAROLINA",
+    "age":" 18+",
+    "pastMonth":7.2,
+    "FIELD4":" "
+  },
+  {
+    "state":"INDIANA",
+    "age":" 12+",
+    "pastMonth":6.2,
+    "FIELD4":" "
+  },
+  {
+    "state":"INDIANA",
+    "age":" 12-17",
+    "pastMonth":6.25,
+    "FIELD4":" "
+  },
+  {
+    "state":"INDIANA",
+    "age":" 18-25",
+    "pastMonth":16.78,
+    "FIELD4":" "
+  },
+  {
+    "state":"INDIANA",
+    "age":" 26+",
+    "pastMonth":4.31,
+    "FIELD4":" "
+  },
+  {
+    "state":"INDIANA",
+    "age":" 18+",
+    "pastMonth":6.19,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEVADA",
+    "age":" 12+",
+    "pastMonth":8.36,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEVADA",
+    "age":" 12-17",
+    "pastMonth":8.77,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEVADA",
+    "age":" 18-25",
+    "pastMonth":20.01,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEVADA",
+    "age":" 26+",
+    "pastMonth":6.44,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEVADA",
+    "age":" 18+",
+    "pastMonth":8.32,
+    "FIELD4":" "
+  },
+  {
+    "state":"LOUISIANA",
+    "age":" 12+",
+    "pastMonth":4.62,
+    "FIELD4":" "
+  },
+  {
+    "state":"LOUISIANA",
+    "age":" 12-17",
+    "pastMonth":5.01,
+    "FIELD4":" "
+  },
+  {
+    "state":"LOUISIANA",
+    "age":" 18-25",
+    "pastMonth":13,
+    "FIELD4":" "
+  },
+  {
+    "state":"LOUISIANA",
+    "age":" 26+",
+    "pastMonth":3.02,
+    "FIELD4":" "
+  },
+  {
+    "state":"LOUISIANA",
+    "age":" 18+",
+    "pastMonth":4.57,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEBRASKA",
+    "age":" 12+",
+    "pastMonth":5.51,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEBRASKA",
+    "age":" 12-17",
+    "pastMonth":6.53,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEBRASKA",
+    "age":" 18-25",
+    "pastMonth":14.83,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEBRASKA",
+    "age":" 26+",
+    "pastMonth":3.74,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEBRASKA",
+    "age":" 18+",
+    "pastMonth":5.4,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARIZONA",
+    "age":" 12+",
+    "pastMonth":7.22,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARIZONA",
+    "age":" 12-17",
+    "pastMonth":8.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARIZONA",
+    "age":" 18-25",
+    "pastMonth":17.2,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARIZONA",
+    "age":" 26+",
+    "pastMonth":5.33,
+    "FIELD4":" "
+  },
+  {
+    "state":"ARIZONA",
+    "age":" 18+",
+    "pastMonth":7.09,
+    "FIELD4":" "
+  },
+  {
+    "state":"WISCONSIN",
+    "age":" 12+",
+    "pastMonth":6.69,
+    "FIELD4":" "
+  },
+  {
+    "state":"WISCONSIN",
+    "age":" 12-17",
+    "pastMonth":7.78,
+    "FIELD4":" "
+  },
+  {
+    "state":"WISCONSIN",
+    "age":" 18-25",
+    "pastMonth":18.18,
+    "FIELD4":" "
+  },
+  {
+    "state":"WISCONSIN",
+    "age":" 26+",
+    "pastMonth":4.65,
+    "FIELD4":" "
+  },
+  {
+    "state":"WISCONSIN",
+    "age":" 18+",
+    "pastMonth":6.58,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH DAKOTA",
+    "age":" 12+",
+    "pastMonth":5.15,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH DAKOTA",
+    "age":" 12-17",
+    "pastMonth":6.02,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH DAKOTA",
+    "age":" 18-25",
+    "pastMonth":14.44,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH DAKOTA",
+    "age":" 26+",
+    "pastMonth":3.07,
+    "FIELD4":" "
+  },
+  {
+    "state":"NORTH DAKOTA",
+    "age":" 18+",
+    "pastMonth":5.07,
+    "FIELD4":" "
+  },
+  {
+    "state":"PENNSYLVANIA",
+    "age":" 12+",
+    "pastMonth":6.18,
+    "FIELD4":" "
+  },
+  {
+    "state":"PENNSYLVANIA",
+    "age":" 12-17",
+    "pastMonth":6.87,
+    "FIELD4":" "
+  },
+  {
+    "state":"PENNSYLVANIA",
+    "age":" 18-25",
+    "pastMonth":17.54,
+    "FIELD4":" "
+  },
+  {
+    "state":"PENNSYLVANIA",
+    "age":" 26+",
+    "pastMonth":4.2,
+    "FIELD4":" "
+  },
+  {
+    "state":"PENNSYLVANIA",
+    "age":" 18+",
+    "pastMonth":6.11,
+    "FIELD4":" "
+  },
+  {
+    "state":"OKLAHOMA",
+    "age":" 12+",
+    "pastMonth":6.04,
+    "FIELD4":" "
+  },
+  {
+    "state":"OKLAHOMA",
+    "age":" 12-17",
+    "pastMonth":6.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"OKLAHOMA",
+    "age":" 18-25",
+    "pastMonth":14.14,
+    "FIELD4":" "
+  },
+  {
+    "state":"OKLAHOMA",
+    "age":" 26+",
+    "pastMonth":4.55,
+    "FIELD4":" "
+  },
+  {
+    "state":"OKLAHOMA",
+    "age":" 18+",
+    "pastMonth":6.01,
+    "FIELD4":" "
+  },
+  {
+    "state":"KENTUCKY",
+    "age":" 12+",
+    "pastMonth":5.63,
+    "FIELD4":" "
+  },
+  {
+    "state":"KENTUCKY",
+    "age":" 12-17",
+    "pastMonth":6.06,
+    "FIELD4":" "
+  },
+  {
+    "state":"KENTUCKY",
+    "age":" 18-25",
+    "pastMonth":17.35,
+    "FIELD4":" "
+  },
+  {
+    "state":"KENTUCKY",
+    "age":" 26+",
+    "pastMonth":3.65,
+    "FIELD4":" "
+  },
+  {
+    "state":"KENTUCKY",
+    "age":" 18+",
+    "pastMonth":5.59,
+    "FIELD4":" "
+  },
+  {
+    "state":"RHODE ISLAND",
+    "age":" 12+",
+    "pastMonth":13,
+    "FIELD4":" "
+  },
+  {
+    "state":"RHODE ISLAND",
+    "age":" 12-17",
+    "pastMonth":12.44,
+    "FIELD4":" "
+  },
+  {
+    "state":"RHODE ISLAND",
+    "age":" 18-25",
+    "pastMonth":30.16,
+    "FIELD4":" "
+  },
+  {
+    "state":"RHODE ISLAND",
+    "age":" 26+",
+    "pastMonth":9.74,
+    "FIELD4":" "
+  },
+  {
+    "state":"RHODE ISLAND",
+    "age":" 18+",
+    "pastMonth":13.05,
+    "FIELD4":" "
+  },
+  {
+    "state":"DISTRICT OF COLUMBIA",
+    "age":" 12+",
+    "pastMonth":10.45,
+    "FIELD4":" "
+  },
+  {
+    "state":"DISTRICT OF COLUMBIA",
+    "age":" 12-17",
+    "pastMonth":9.35,
+    "FIELD4":" "
+  },
+  {
+    "state":"DISTRICT OF COLUMBIA",
+    "age":" 18-25",
+    "pastMonth":24.49,
+    "FIELD4":" "
+  },
+  {
+    "state":"DISTRICT OF COLUMBIA",
+    "age":" 26+",
+    "pastMonth":7.24,
+    "FIELD4":" "
+  },
+  {
+    "state":"DISTRICT OF COLUMBIA",
+    "age":" 18+",
+    "pastMonth":10.52,
+    "FIELD4":" "
+  },
+  {
+    "state":"MONTANA",
+    "age":" 12+",
+    "pastMonth":10.45,
+    "FIELD4":" "
+  },
+  {
+    "state":"MONTANA",
+    "age":" 12-17",
+    "pastMonth":9.56,
+    "FIELD4":" "
+  },
+  {
+    "state":"MONTANA",
+    "age":" 18-25",
+    "pastMonth":26.51,
+    "FIELD4":" "
+  },
+  {
+    "state":"MONTANA",
+    "age":" 26+",
+    "pastMonth":7.94,
+    "FIELD4":" "
+  },
+  {
+    "state":"MONTANA",
+    "age":" 18+",
+    "pastMonth":10.54,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW HAMPSHIRE",
+    "age":" 12+",
+    "pastMonth":8.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW HAMPSHIRE",
+    "age":" 12-17",
+    "pastMonth":9.61,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW HAMPSHIRE",
+    "age":" 18-25",
+    "pastMonth":26.37,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW HAMPSHIRE",
+    "age":" 26+",
+    "pastMonth":5.41,
+    "FIELD4":" "
+  },
+  {
+    "state":"NEW HAMPSHIRE",
+    "age":" 18+",
+    "pastMonth":8.25,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST VIRGINIA",
+    "age":" 12+",
+    "pastMonth":5.27,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST VIRGINIA",
+    "age":" 12-17",
+    "pastMonth":6.63,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST VIRGINIA",
+    "age":" 18-25",
+    "pastMonth":17.55,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST VIRGINIA",
+    "age":" 26+",
+    "pastMonth":3.29,
+    "FIELD4":" "
+  },
+  {
+    "state":"WEST VIRGINIA",
+    "age":" 18+",
+    "pastMonth":5.14,
+    "FIELD4":" "
+  },
+  {
+    "state":"TEXAS",
+    "age":" 12+",
+    "pastMonth":5.11,
+    "FIELD4":" "
+  },
+  {
+    "state":"TEXAS",
+    "age":" 12-17",
+    "pastMonth":6.32,
+    "FIELD4":" "
+  },
+  {
+    "state":"TEXAS",
+    "age":" 18-25",
+    "pastMonth":13.76,
+    "FIELD4":" "
+  },
+  {
+    "state":"TEXAS",
+    "age":" 26+",
+    "pastMonth":3.3,
+    "FIELD4":" "
+  },
+  {
+    "state":"TEXAS",
+    "age":" 18+",
+    "pastMonth":4.96,
+    "FIELD4":" "
+  },
+  {
+    "state":"MAINE",
+    "age":" 12+",
+    "pastMonth":8.38,
+    "FIELD4":" "
+  },
+  {
+    "state":"MAINE",
+    "age":" 12-17",
+    "pastMonth":8.94,
+    "FIELD4":" "
+  },
+  {
+    "state":"MAINE",
+    "age":" 18-25",
+    "pastMonth":22.66,
+    "FIELD4":" "
+  },
+  {
+    "state":"MAINE",
+    "age":" 26+",
+    "pastMonth":6.29,
+    "FIELD4":" "
+  },
+  {
+    "state":"MAINE",
+    "age":" 18+",
+    "pastMonth":8.32,
+    "FIELD4":" "
+  }
+]

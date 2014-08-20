@@ -1,0 +1,1121 @@
+State,age,pastMonth,drugType
+SOUTH REGION,12+,5.83,Marijuana
+SOUTH REGION,12-17,6.65,Marijuana
+SOUTH REGION,18-25,16.37,Marijuana
+SOUTH REGION,26+,3.91,Marijuana
+SOUTH REGION,18+,5.74,Marijuana
+SOUTH REGION,12+,48.43,Alcohol
+SOUTH REGION,12-17,12.05,Alcohol
+SOUTH REGION,18-25,57.62,Alcohol
+SOUTH REGION,26+,51.43,Alcohol
+SOUTH REGION,18+,52.34,Alcohol
+SOUTH REGION,12+,7.64,Illicit Drugs
+SOUTH REGION,12-17,9.06,Illicit Drugs
+SOUTH REGION,18-25,19.01,Illicit Drugs
+SOUTH REGION,26+,5.51,Illicit Drugs
+SOUTH REGION,18+,7.49,Illicit Drugs
+SOUTH REGION,12+,27.99,Tobacco
+SOUTH REGION,12-17,9.50,Tobacco
+SOUTH REGION,18-25,39.18,Tobacco
+SOUTH REGION,26+,28.39,Tobacco
+SOUTH REGION,18+,29.98,Tobacco
+WA,12+,10.21,Marijuana
+WA,12-17,9.45,Marijuana
+WA,18-25,23.44,Marijuana
+WA,26+,8.11,Marijuana
+WA,18+,10.29,Marijuana
+WA,12+,55.70,Alcohol
+WA,12-17,12.92,Alcohol
+WA,18-25,62.61,Alcohol
+WA,26+,59.65,Alcohol
+WA,18+,60.07,Alcohol
+WA,12+,11.92,Illicit Drugs
+WA,12-17,12.19,Illicit Drugs
+WA,18-25,25.90,Illicit Drugs
+WA,26+,9.57,Illicit Drugs
+WA,18+,11.89,Illicit Drugs
+WA,12+,24.65,Tobacco
+WA,12-17,9.40,Tobacco
+WA,18-25,39.58,Tobacco
+WA,26+,24.00,Tobacco
+WA,18+,26.21,Tobacco
+MIDWEST REGION,12+,6.86,Marijuana
+MIDWEST REGION,12-17,7.29,Marijuana
+MIDWEST REGION,18-25,18.53,Marijuana
+MIDWEST REGION,26+,4.81,Marijuana
+MIDWEST REGION,18+,6.81,Marijuana
+MIDWEST REGION,12+,54.43,Alcohol
+MIDWEST REGION,12-17,13.14,Alcohol
+MIDWEST REGION,18-25,63.63,Alcohol
+MIDWEST REGION,26+,58.06,Alcohol
+MIDWEST REGION,18+,58.88,Alcohol
+MIDWEST REGION,12+,8.67,Illicit Drugs
+MIDWEST REGION,12-17,9.46,Illicit Drugs
+MIDWEST REGION,18-25,20.74,Illicit Drugs
+MIDWEST REGION,26+,6.51,Illicit Drugs
+MIDWEST REGION,18+,8.59,Illicit Drugs
+MIDWEST REGION,12+,29.49,Tobacco
+MIDWEST REGION,12-17,10.47,Tobacco
+MIDWEST REGION,18-25,43.29,Tobacco
+MIDWEST REGION,26+,29.53,Tobacco
+MIDWEST REGION,18+,31.54,Tobacco
+DE,12+,7.49,Marijuana
+DE,12-17,9.58,Marijuana
+DE,18-25,20.95,Marijuana
+DE,26+,4.95,Marijuana
+DE,18+,7.28,Marijuana
+DE,12+,52.55,Alcohol
+DE,12-17,13.87,Alcohol
+DE,18-25,63.73,Alcohol
+DE,26+,55.14,Alcohol
+DE,18+,56.39,Alcohol
+DE,12+,9.36,Illicit Drugs
+DE,12-17,11.79,Illicit Drugs
+DE,18-25,23.09,Illicit Drugs
+DE,26+,6.74,Illicit Drugs
+DE,18+,9.12,Illicit Drugs
+DE,12+,28.04,Tobacco
+DE,12-17,10.07,Tobacco
+DE,18-25,40.16,Tobacco
+DE,26+,28.06,Tobacco
+DE,18+,29.82,Tobacco
+DC,12+,10.45,Marijuana
+DC,12-17,9.35,Marijuana
+DC,18-25,24.49,Marijuana
+DC,26+,7.24,Marijuana
+DC,18+,10.52,Marijuana
+DC,12+,63.94,Alcohol
+DC,12-17,14.79,Alcohol
+DC,18-25,75.13,Alcohol
+DC,26+,65.08,Alcohol
+DC,18+,66.98,Alcohol
+DC,12+,13.51,Illicit Drugs
+DC,12-17,12.59,Illicit Drugs
+DC,18-25,26.97,Illicit Drugs
+DC,26+,10.42,Illicit Drugs
+DC,18+,13.57,Illicit Drugs
+DC,12+,25.32,Tobacco
+DC,12-17,6.11,Tobacco
+DC,18-25,33.58,Tobacco
+DC,26+,24.86,Tobacco
+DC,18+,26.50,Tobacco
+WI,12+,6.69,Marijuana
+WI,12-17,7.78,Marijuana
+WI,18-25,18.18,Marijuana
+WI,26+,4.65,Marijuana
+WI,18+,6.58,Marijuana
+WI,12+,60.96,Alcohol
+WI,12-17,14.83,Alcohol
+WI,18-25,69.06,Alcohol
+WI,26+,65.23,Alcohol
+WI,18+,65.77,Alcohol
+WI,12+,8.18,Illicit Drugs
+WI,12-17,9.68,Illicit Drugs
+WI,18-25,19.98,Illicit Drugs
+WI,26+,6.04,Illicit Drugs
+WI,18+,8.03,Illicit Drugs
+WI,12+,27.07,Tobacco
+WI,12-17,9.63,Tobacco
+WI,18-25,39.99,Tobacco
+WI,26+,27.05,Tobacco
+WI,18+,28.89,Tobacco
+WV,12+,5.27,Marijuana
+WV,12-17,6.63,Marijuana
+WV,18-25,17.55,Marijuana
+WV,26+,3.29,Marijuana
+WV,18+,5.14,Marijuana
+WV,12+,37.53,Alcohol
+WV,12-17,13.45,Alcohol
+WV,18-25,55.99,Alcohol
+WV,26+,37.27,Alcohol
+WV,18+,39.70,Alcohol
+WV,12+,6.99,Illicit Drugs
+WV,12-17,8.73,Illicit Drugs
+WV,18-25,20.96,Illicit Drugs
+WV,26+,4.73,Illicit Drugs
+WV,18+,6.84,Illicit Drugs
+WV,12+,37.24,Tobacco
+WV,12-17,15.17,Tobacco
+WV,18-25,51.38,Tobacco
+WV,26+,37.40,Tobacco
+WV,18+,39.22,Tobacco
+NORTHEAST REGION,12+,7.72,Marijuana
+NORTHEAST REGION,12-17,8.05,Marijuana
+NORTHEAST REGION,18-25,21.34,Marijuana
+NORTHEAST REGION,26+,5.40,Marijuana
+NORTHEAST REGION,18+,7.69,Marijuana
+NORTHEAST REGION,12+,57.31,Alcohol
+NORTHEAST REGION,12-17,15.81,Alcohol
+NORTHEAST REGION,18-25,65.84,Alcohol
+NORTHEAST REGION,26+,60.71,Alcohol
+NORTHEAST REGION,18+,61.45,Alcohol
+NORTHEAST REGION,12+,9.39,Illicit Drugs
+NORTHEAST REGION,12-17,9.90,Illicit Drugs
+NORTHEAST REGION,18-25,23.59,Illicit Drugs
+NORTHEAST REGION,26+,6.95,Illicit Drugs
+NORTHEAST REGION,18+,9.34,Illicit Drugs
+NORTHEAST REGION,12+,25.62,Tobacco
+NORTHEAST REGION,12-17,9.46,Tobacco
+NORTHEAST REGION,18-25,38.04,Tobacco
+NORTHEAST REGION,26+,25.42,Tobacco
+NORTHEAST REGION,18+,27.23,Tobacco
+HI,12+,7.57,Marijuana
+HI,12-17,9.69,Marijuana
+HI,18-25,18.15,Marijuana
+HI,26+,5.69,Marijuana
+HI,18+,7.37,Marijuana
+HI,12+,50.86,Alcohol
+HI,12-17,12.44,Alcohol
+HI,18-25,57.12,Alcohol
+HI,26+,54.12,Alcohol
+HI,18+,54.52,Alcohol
+HI,12+,9.71,Illicit Drugs
+HI,12-17,11.64,Illicit Drugs
+HI,18-25,22.20,Illicit Drugs
+HI,26+,7.56,Illicit Drugs
+HI,18+,9.53,Illicit Drugs
+HI,12+,20.31,Tobacco
+HI,12-17,8.57,Tobacco
+HI,18-25,33.79,Tobacco
+HI,26+,19.50,Tobacco
+HI,18+,21.43,Tobacco
+WEST REGION,12+,9.01,Marijuana
+WEST REGION,12-17,8.81,Marijuana
+WEST REGION,18-25,21.24,Marijuana
+WEST REGION,26+,6.83,Marijuana
+WEST REGION,18+,9.03,Marijuana
+WEST REGION,12+,51.03,Alcohol
+WEST REGION,12-17,12.80,Alcohol
+WEST REGION,18-25,57.94,Alcohol
+WEST REGION,26+,54.76,Alcohol
+WEST REGION,18+,55.25,Alcohol
+WEST REGION,12+,10.93,Illicit Drugs
+WEST REGION,12-17,11.26,Illicit Drugs
+WEST REGION,18-25,23.97,Illicit Drugs
+WEST REGION,26+,8.55,Illicit Drugs
+WEST REGION,18+,10.90,Illicit Drugs
+WEST REGION,12+,22.49,Tobacco
+WEST REGION,12-17,7.83,Tobacco
+WEST REGION,18-25,34.60,Tobacco
+WEST REGION,26+,22.23,Tobacco
+WEST REGION,18+,24.11,Tobacco
+FL,12+,6.65,Marijuana
+FL,12-17,7.03,Marijuana
+FL,18-25,19.02,Marijuana
+FL,26+,4.73,Marijuana
+FL,18+,6.61,Marijuana
+FL,12+,51.88,Alcohol
+FL,12-17,12.45,Alcohol
+FL,18-25,59.41,Alcohol
+FL,26+,54.97,Alcohol
+FL,18+,55.55,Alcohol
+FL,12+,8.32,Illicit Drugs
+FL,12-17,9.10,Illicit Drugs
+FL,18-25,21.25,Illicit Drugs
+FL,26+,6.27,Illicit Drugs
+FL,18+,8.24,Illicit Drugs
+FL,12+,24.59,Tobacco
+FL,12-17,7.24,Tobacco
+FL,18-25,34.87,Tobacco
+FL,26+,24.87,Tobacco
+FL,18+,26.20,Tobacco
+WY,12+,5.68,Marijuana
+WY,12-17,6.00,Marijuana
+WY,18-25,13.06,Marijuana
+WY,26+,4.36,Marijuana
+WY,18+,5.65,Marijuana
+WY,12+,53.24,Alcohol
+WY,12-17,14.11,Alcohol
+WY,18-25,62.04,Alcohol
+WY,26+,56.32,Alcohol
+WY,18+,57.17,Alcohol
+WY,12+,7.01,Illicit Drugs
+WY,12-17,8.04,Illicit Drugs
+WY,18-25,14.99,Illicit Drugs
+WY,26+,5.51,Illicit Drugs
+WY,18+,6.91,Illicit Drugs
+WY,12+,32.47,Tobacco
+WY,12-17,13.44,Tobacco
+WY,18-25,48.84,Tobacco
+WY,26+,31.87,Tobacco
+WY,18+,34.38,Tobacco
+NH,12+,8.37,Marijuana
+NH,12-17,9.61,Marijuana
+NH,18-25,26.37,Marijuana
+NH,26+,5.41,Marijuana
+NH,18+,8.25,Marijuana
+NH,12+,62.89,Alcohol
+NH,12-17,14.39,Alcohol
+NH,18-25,73.62,Alcohol
+NH,26+,66.82,Alcohol
+NH,18+,67.74,Alcohol
+NH,12+,10.34,Illicit Drugs
+NH,12-17,11.74,Illicit Drugs
+NH,18-25,28.78,Illicit Drugs
+NH,26+,7.29,Illicit Drugs
+NH,18+,10.20,Illicit Drugs
+NH,12+,26.13,Tobacco
+NH,12-17,10.93,Tobacco
+NH,18-25,42.86,Tobacco
+NH,26+,25.26,Tobacco
+NH,18+,27.65,Tobacco
+NJ,12+,6.05,Marijuana
+NJ,12-17,6.85,Marijuana
+NJ,18-25,19.26,Marijuana
+NJ,26+,3.96,Marijuana
+NJ,18+,5.96,Marijuana
+NJ,12+,56.36,Alcohol
+NJ,12-17,17.47,Alcohol
+NJ,18-25,63.40,Alcohol
+NJ,26+,60.05,Alcohol
+NJ,18+,60.49,Alcohol
+NJ,12+,7.99,Illicit Drugs
+NJ,12-17,9.20,Illicit Drugs
+NJ,18-25,22.89,Illicit Drugs
+NJ,26+,5.60,Illicit Drugs
+NJ,18+,7.86,Illicit Drugs
+NJ,12+,23.33,Tobacco
+NJ,12-17,8.71,Tobacco
+NJ,18-25,36.81,Tobacco
+NJ,26+,23.08,Tobacco
+NJ,18+,24.88,Tobacco
+NM,12+,9.14,Marijuana
+NM,12-17,9.82,Marijuana
+NM,18-25,21.35,Marijuana
+NM,26+,6.94,Marijuana
+NM,18+,9.07,Marijuana
+NM,12+,46.89,Alcohol
+NM,12-17,12.69,Alcohol
+NM,18-25,55.70,Alcohol
+NM,26+,49.82,Alcohol
+NM,18+,50.69,Alcohol
+NM,12+,11.28,Illicit Drugs
+NM,12-17,13.51,Illicit Drugs
+NM,18-25,24.45,Illicit Drugs
+NM,26+,8.71,Illicit Drugs
+NM,18+,11.04,Illicit Drugs
+NM,12+,26.07,Tobacco
+NM,12-17,11.31,Tobacco
+NM,18-25,42.98,Tobacco
+NM,26+,25.07,Tobacco
+NM,18+,27.71,Tobacco
+TX,12+,5.11,Marijuana
+TX,12-17,6.32,Marijuana
+TX,18-25,13.76,Marijuana
+TX,26+,3.30,Marijuana
+TX,18+,4.96,Marijuana
+TX,12+,48.19,Alcohol
+TX,12-17,11.91,Alcohol
+TX,18-25,56.57,Alcohol
+TX,26+,51.92,Alcohol
+TX,18+,52.66,Alcohol
+TX,12+,7.05,Illicit Drugs
+TX,12-17,8.97,Illicit Drugs
+TX,18-25,16.91,Illicit Drugs
+TX,26+,4.91,Illicit Drugs
+TX,18+,6.82,Illicit Drugs
+TX,12+,24.44,Tobacco
+TX,12-17,8.09,Tobacco
+TX,18-25,35.72,Tobacco
+TX,26+,24.71,Tobacco
+TX,18+,26.46,Tobacco
+LA,12+,4.62,Marijuana
+LA,12-17,5.01,Marijuana
+LA,18-25,13.00,Marijuana
+LA,26+,3.02,Marijuana
+LA,18+,4.57,Marijuana
+LA,12+,49.62,Alcohol
+LA,12-17,13.33,Alcohol
+LA,18-25,59.07,Alcohol
+LA,26+,52.57,Alcohol
+LA,18+,53.58,Alcohol
+LA,12+,6.96,Illicit Drugs
+LA,12-17,7.55,Illicit Drugs
+LA,18-25,16.08,Illicit Drugs
+LA,26+,5.20,Illicit Drugs
+LA,18+,6.90,Illicit Drugs
+LA,12+,32.95,Tobacco
+LA,12-17,9.96,Tobacco
+LA,18-25,41.32,Tobacco
+LA,26+,34.39,Tobacco
+LA,18+,35.47,Tobacco
+NC,12+,6.49,Marijuana
+NC,12-17,7.69,Marijuana
+NC,18-25,19.28,Marijuana
+NC,26+,4.24,Marijuana
+NC,18+,6.37,Marijuana
+NC,12+,47.56,Alcohol
+NC,12-17,12.48,Alcohol
+NC,18-25,60.40,Alcohol
+NC,26+,49.72,Alcohol
+NC,18+,51.23,Alcohol
+NC,12+,7.85,Illicit Drugs
+NC,12-17,9.65,Illicit Drugs
+NC,18-25,21.59,Illicit Drugs
+NC,26+,5.37,Illicit Drugs
+NC,18+,7.66,Illicit Drugs
+NC,12+,28.03,Tobacco
+NC,12-17,9.34,Tobacco
+NC,18-25,39.55,Tobacco
+NC,26+,28.41,Tobacco
+NC,18+,29.99,Tobacco
+ND,12+,5.15,Marijuana
+ND,12-17,6.02,Marijuana
+ND,18-25,14.44,Marijuana
+ND,26+,3.07,Marijuana
+ND,18+,5.07,Marijuana
+ND,12+,59.12,Alcohol
+ND,12-17,12.78,Alcohol
+ND,18-25,71.02,Alcohol
+ND,26+,61.82,Alcohol
+ND,18+,63.43,Alcohol
+ND,12+,6.25,Illicit Drugs
+ND,12-17,6.75,Illicit Drugs
+ND,18-25,16.02,Illicit Drugs
+ND,26+,4.12,Illicit Drugs
+ND,18+,6.20,Illicit Drugs
+ND,12+,29.80,Tobacco
+ND,12-17,11.30,Tobacco
+ND,18-25,45.20,Tobacco
+ND,26+,28.62,Tobacco
+ND,18+,31.52,Tobacco
+NE,12+,5.51,Marijuana
+NE,12-17,6.53,Marijuana
+NE,18-25,14.83,Marijuana
+NE,26+,3.74,Marijuana
+NE,18+,5.40,Marijuana
+NE,12+,53.74,Alcohol
+NE,12-17,11.45,Alcohol
+NE,18-25,63.55,Alcohol
+NE,26+,57.33,Alcohol
+NE,18+,58.26,Alcohol
+NE,12+,6.72,Illicit Drugs
+NE,12-17,8.16,Illicit Drugs
+NE,18-25,16.76,Illicit Drugs
+NE,26+,4.78,Illicit Drugs
+NE,18+,6.57,Illicit Drugs
+NE,12+,26.45,Tobacco
+NE,12-17,9.84,Tobacco
+NE,18-25,40.15,Tobacco
+NE,26+,26.13,Tobacco
+NE,18+,28.22,Tobacco
+TN,12+,5.41,Marijuana
+TN,12-17,5.92,Marijuana
+TN,18-25,14.70,Marijuana
+TN,26+,3.81,Marijuana
+TN,18+,5.35,Marijuana
+TN,12+,39.15,Alcohol
+TN,12-17,10.17,Alcohol
+TN,18-25,49.74,Alcohol
+TN,26+,40.93,Alcohol
+TN,18+,42.18,Alcohol
+TN,12+,7.13,Illicit Drugs
+TN,12-17,8.46,Illicit Drugs
+TN,18-25,18.03,Illicit Drugs
+TN,26+,5.17,Illicit Drugs
+TN,18+,6.99,Illicit Drugs
+TN,12+,32.78,Tobacco
+TN,12-17,11.47,Tobacco
+TN,18-25,42.99,Tobacco
+TN,26+,33.68,Tobacco
+TN,18+,35.00,Tobacco
+NY,12+,8.24,Marijuana
+NY,12-17,7.86,Marijuana
+NY,18-25,21.35,Marijuana
+NY,26+,5.98,Marijuana
+NY,18+,8.28,Marijuana
+NY,12+,55.49,Alcohol
+NY,12-17,16.56,Alcohol
+NY,18-25,65.17,Alcohol
+NY,26+,58.29,Alcohol
+NY,18+,59.32,Alcohol
+NY,12+,9.73,Illicit Drugs
+NY,12-17,9.37,Illicit Drugs
+NY,18-25,23.56,Illicit Drugs
+NY,26+,7.34,Illicit Drugs
+NY,18+,9.77,Illicit Drugs
+NY,12+,24.12,Tobacco
+NY,12-17,7.95,Tobacco
+NY,18-25,35.53,Tobacco
+NY,26+,23.98,Tobacco
+NY,18+,25.71,Tobacco
+PA,12+,6.18,Marijuana
+PA,12-17,6.87,Marijuana
+PA,18-25,17.54,Marijuana
+PA,26+,4.20,Marijuana
+PA,18+,6.11,Marijuana
+PA,12+,55.47,Alcohol
+PA,12-17,13.45,Alcohol
+PA,18-25,64.28,Alcohol
+PA,26+,58.82,Alcohol
+PA,18+,59.60,Alcohol
+PA,12+,8.05,Illicit Drugs
+PA,12-17,8.89,Illicit Drugs
+PA,18-25,19.58,Illicit Drugs
+PA,26+,6.02,Illicit Drugs
+PA,18+,7.97,Illicit Drugs
+PA,12+,30.00,Tobacco
+PA,12-17,11.40,Tobacco
+PA,18-25,43.23,Tobacco
+PA,26+,29.92,Tobacco
+PA,18+,31.83,Tobacco
+AK,12+,12.97,Marijuana
+AK,12-17,10.01,Marijuana
+AK,18-25,24.77,Marijuana
+AK,26+,11.18,Marijuana
+AK,18+,13.31,Marijuana
+AK,12+,54.46,Alcohol
+AK,12-17,13.39,Alcohol
+AK,18-25,59.47,Alcohol
+AK,26+,59.28,Alcohol
+AK,18+,59.31,Alcohol
+AK,12+,14.03,Illicit Drugs
+AK,12-17,10.69,Illicit Drugs
+AK,18-25,26.52,Illicit Drugs
+AK,26+,12.17,Illicit Drugs
+AK,18+,14.42,Illicit Drugs
+AK,12+,31.53,Tobacco
+AK,12-17,10.30,Tobacco
+AK,18-25,46.56,Tobacco
+AK,26+,31.72,Tobacco
+AK,18+,34.04,Tobacco
+NV,12+,8.36,Marijuana
+NV,12-17,8.77,Marijuana
+NV,18-25,20.01,Marijuana
+NV,26+,6.44,Marijuana
+NV,18+,8.32,Marijuana
+NV,12+,52.82,Alcohol
+NV,12-17,13.61,Alcohol
+NV,18-25,59.47,Alcohol
+NV,26+,56.66,Alcohol
+NV,18+,57.05,Alcohol
+NV,12+,11.07,Illicit Drugs
+NV,12-17,11.19,Illicit Drugs
+NV,18-25,23.14,Illicit Drugs
+NV,26+,9.11,Illicit Drugs
+NV,18+,11.05,Illicit Drugs
+NV,12+,26.99,Tobacco
+NV,12-17,9.10,Tobacco
+NV,18-25,39.60,Tobacco
+NV,26+,27.20,Tobacco
+NV,18+,28.92,Tobacco
+VA,12+,5.54,Marijuana
+VA,12-17,6.61,Marijuana
+VA,18-25,17.06,Marijuana
+VA,26+,3.44,Marijuana
+VA,18+,5.43,Marijuana
+VA,12+,55.13,Alcohol
+VA,12-17,12.15,Alcohol
+VA,18-25,63.50,Alcohol
+VA,26+,58.84,Alcohol
+VA,18+,59.52,Alcohol
+VA,12+,7.46,Illicit Drugs
+VA,12-17,8.52,Illicit Drugs
+VA,18-25,20.22,Illicit Drugs
+VA,26+,5.15,Illicit Drugs
+VA,18+,7.35,Illicit Drugs
+VA,12+,25.18,Tobacco
+VA,12-17,8.68,Tobacco
+VA,18-25,38.05,Tobacco
+VA,26+,24.96,Tobacco
+VA,18+,26.87,Tobacco
+CO,12+,10.41,Marijuana
+CO,12-17,10.47,Marijuana
+CO,18-25,26.81,Marijuana
+CO,26+,7.63,Marijuana
+CO,18+,10.40,Marijuana
+CO,12+,59.20,Alcohol
+CO,12-17,13.40,Alcohol
+CO,18-25,68.08,Alcohol
+CO,26+,63.22,Alcohol
+CO,18+,63.92,Alcohol
+CO,12+,12.24,Illicit Drugs
+CO,12-17,13.17,Illicit Drugs
+CO,18-25,29.75,Illicit Drugs
+CO,26+,9.18,Illicit Drugs
+CO,18+,12.15,Illicit Drugs
+CO,12+,28.50,Tobacco
+CO,12-17,10.63,Tobacco
+CO,18-25,43.10,Tobacco
+CO,26+,28.19,Tobacco
+CO,18+,30.34,Tobacco
+CA,12+,9.08,Marijuana
+CA,12-17,8.83,Marijuana
+CA,18-25,21.74,Marijuana
+CA,26+,6.74,Marijuana
+CA,18+,9.11,Marijuana
+CA,12+,49.60,Alcohol
+CA,12-17,13.08,Alcohol
+CA,18-25,57.76,Alcohol
+CA,26+,52.96,Alcohol
+CA,18+,53.71,Alcohol
+CA,12+,11.00,Illicit Drugs
+CA,12-17,11.18,Illicit Drugs
+CA,18-25,24.35,Illicit Drugs
+CA,26+,8.48,Illicit Drugs
+CA,18+,10.98,Illicit Drugs
+CA,12+,19.40,Tobacco
+CA,12-17,6.56,Tobacco
+CA,18-25,31.10,Tobacco
+CA,26+,18.93,Tobacco
+CA,18+,20.85,Tobacco
+AL,12+,5.07,Marijuana
+AL,12-17,5.62,Marijuana
+AL,18-25,14.34,Marijuana
+AL,26+,3.38,Marijuana
+AL,18+,5.02,Marijuana
+AL,12+,43.21,Alcohol
+AL,12-17,11.36,Alcohol
+AL,18-25,52.65,Alcohol
+AL,26+,45.56,Alcohol
+AL,18+,46.61,Alcohol
+AL,12+,7.72,Illicit Drugs
+AL,12-17,8.99,Illicit Drugs
+AL,18-25,17.51,Illicit Drugs
+AL,26+,5.85,Illicit Drugs
+AL,18+,7.58,Illicit Drugs
+AL,12+,32.20,Tobacco
+AL,12-17,10.77,Tobacco
+AL,18-25,43.71,Tobacco
+AL,26+,32.87,Tobacco
+AL,18+,34.49,Tobacco
+UNITED STATES,12+,7.13,Marijuana
+UNITED STATES,12-17,7.55,Marijuana
+UNITED STATES,18-25,18.89,Marijuana
+UNITED STATES,26+,5.05,Marijuana
+UNITED STATES,18+,7.09,Marijuana
+UNITED STATES,12+,51.94,Alcohol
+UNITED STATES,12-17,13.11,Alcohol
+UNITED STATES,18-25,60.45,Alcohol
+UNITED STATES,26+,55.33,Alcohol
+UNITED STATES,18+,56.09,Alcohol
+UNITED STATES,12+,8.95,Illicit Drugs
+UNITED STATES,12-17,9.82,Illicit Drugs
+UNITED STATES,18-25,21.39,Illicit Drugs
+UNITED STATES,26+,6.69,Illicit Drugs
+UNITED STATES,18+,8.85,Illicit Drugs
+UNITED STATES,12+,26.60,Tobacco
+UNITED STATES,12-17,9.30,Tobacco
+UNITED STATES,18-25,38.75,Tobacco
+UNITED STATES,26+,26.67,Tobacco
+UNITED STATES,18+,28.45,Tobacco
+AR,12+,5.30,Marijuana
+AR,12-17,6.01,Marijuana
+AR,18-25,14.71,Marijuana
+AR,26+,3.61,Marijuana
+AR,18+,5.22,Marijuana
+AR,12+,40.35,Alcohol
+AR,12-17,12.25,Alcohol
+AR,18-25,50.71,Alcohol
+AR,26+,42.14,Alcohol
+AR,18+,43.39,Alcohol
+AR,12+,7.55,Illicit Drugs
+AR,12-17,9.18,Illicit Drugs
+AR,18-25,17.56,Illicit Drugs
+AR,26+,5.64,Illicit Drugs
+AR,18+,7.37,Illicit Drugs
+AR,12+,31.62,Tobacco
+AR,12-17,11.68,Tobacco
+AR,18-25,42.67,Tobacco
+AR,26+,32.25,Tobacco
+AR,18+,33.77,Tobacco
+VT,12+,12.86,Marijuana
+VT,12-17,13.36,Marijuana
+VT,18-25,33.18,Marijuana
+VT,26+,9.34,Marijuana
+VT,18+,12.82,Marijuana
+VT,12+,58.57,Alcohol
+VT,12-17,17.25,Alcohol
+VT,18-25,71.15,Alcohol
+VT,26+,60.89,Alcohol
+VT,18+,62.39,Alcohol
+VT,12+,14.14,Illicit Drugs
+VT,12-17,15.46,Illicit Drugs
+VT,18-25,33.32,Illicit Drugs
+VT,26+,10.72,Illicit Drugs
+VT,18+,14.02,Illicit Drugs
+VT,12+,28.39,Tobacco
+VT,12-17,13.45,Tobacco
+VT,18-25,47.56,Tobacco
+VT,26+,26.73,Tobacco
+VT,18+,29.77,Tobacco
+IL,12+,7.03,Marijuana
+IL,12-17,6.94,Marijuana
+IL,18-25,20.27,Marijuana
+IL,26+,4.79,Marijuana
+IL,18+,7.04,Marijuana
+IL,12+,55.40,Alcohol
+IL,12-17,13.14,Alcohol
+IL,18-25,64.08,Alcohol
+IL,26+,59.37,Alcohol
+IL,18+,60.05,Alcohol
+IL,12+,8.73,Illicit Drugs
+IL,12-17,8.73,Illicit Drugs
+IL,18-25,22.33,Illicit Drugs
+IL,26+,6.42,Illicit Drugs
+IL,18+,8.73,Illicit Drugs
+IL,12+,26.40,Tobacco
+IL,12-17,8.46,Tobacco
+IL,18-25,39.94,Tobacco
+IL,26+,26.41,Tobacco
+IL,18+,28.37,Tobacco
+GA,12+,5.96,Marijuana
+GA,12-17,7.20,Marijuana
+GA,18-25,16.65,Marijuana
+GA,26+,3.88,Marijuana
+GA,18+,5.82,Marijuana
+GA,12+,46.71,Alcohol
+GA,12-17,10.87,Alcohol
+GA,18-25,52.73,Alcohol
+GA,26+,50.50,Alcohol
+GA,18+,50.84,Alcohol
+GA,12+,7.43,Illicit Drugs
+GA,12-17,9.66,Illicit Drugs
+GA,18-25,18.52,Illicit Drugs
+GA,26+,5.14,Illicit Drugs
+GA,18+,7.17,Illicit Drugs
+GA,12+,26.53,Tobacco
+GA,12-17,10.27,Tobacco
+GA,18-25,36.28,Tobacco
+GA,26+,27.00,Tobacco
+GA,18+,28.41,Tobacco
+IN,12+,6.20,Marijuana
+IN,12-17,6.25,Marijuana
+IN,18-25,16.78,Marijuana
+IN,26+,4.31,Marijuana
+IN,18+,6.19,Marijuana
+IN,12+,51.17,Alcohol
+IN,12-17,11.28,Alcohol
+IN,18-25,61.82,Alcohol
+IN,26+,54.53,Alcohol
+IN,18+,55.63,Alcohol
+IN,12+,8.50,Illicit Drugs
+IN,12-17,8.90,Illicit Drugs
+IN,18-25,20.46,Illicit Drugs
+IN,26+,6.32,Illicit Drugs
+IN,18+,8.45,Illicit Drugs
+IN,12+,32.86,Tobacco
+IN,12-17,10.93,Tobacco
+IN,18-25,44.66,Tobacco
+IN,26+,33.65,Tobacco
+IN,18+,35.31,Tobacco
+IA,12+,6.10,Marijuana
+IA,12-17,6.65,Marijuana
+IA,18-25,16.84,Marijuana
+IA,26+,4.13,Marijuana
+IA,18+,6.04,Marijuana
+IA,12+,56.46,Alcohol
+IA,12-17,14.59,Alcohol
+IA,18-25,67.11,Alcohol
+IA,26+,59.74,Alcohol
+IA,18+,60.85,Alcohol
+IA,12+,7.45,Illicit Drugs
+IA,12-17,8.53,Illicit Drugs
+IA,18-25,18.95,Illicit Drugs
+IA,26+,5.28,Illicit Drugs
+IA,18+,7.34,Illicit Drugs
+IA,12+,26.69,Tobacco
+IA,12-17,10.57,Tobacco
+IA,18-25,42.53,Tobacco
+IA,26+,25.88,Tobacco
+IA,18+,28.38,Tobacco
+MA,12+,9.37,Marijuana
+MA,12-17,10.58,Marijuana
+MA,18-25,25.77,Marijuana
+MA,26+,6.34,Marijuana
+MA,18+,9.25,Marijuana
+MA,12+,63.54,Alcohol
+MA,12-17,15.59,Alcohol
+MA,18-25,69.28,Alcohol
+MA,26+,67.96,Alcohol
+MA,18+,68.16,Alcohol
+MA,12+,10.94,Illicit Drugs
+MA,12-17,12.29,Illicit Drugs
+MA,18-25,27.24,Illicit Drugs
+MA,26+,7.91,Illicit Drugs
+MA,18+,10.80,Illicit Drugs
+MA,12+,23.81,Tobacco
+MA,12-17,10.92,Tobacco
+MA,18-25,34.22,Tobacco
+MA,26+,23.43,Tobacco
+MA,18+,25.05,Tobacco
+AZ,12+,7.22,Marijuana
+AZ,12-17,8.37,Marijuana
+AZ,18-25,17.20,Marijuana
+AZ,26+,5.33,Marijuana
+AZ,18+,7.09,Marijuana
+AZ,12+,50.85,Alcohol
+AZ,12-17,13.07,Alcohol
+AZ,18-25,57.05,Alcohol
+AZ,26+,54.75,Alcohol
+AZ,18+,55.09,Alcohol
+AZ,12+,9.57,Illicit Drugs
+AZ,12-17,11.44,Illicit Drugs
+AZ,18-25,20.67,Illicit Drugs
+AZ,26+,7.39,Illicit Drugs
+AZ,18+,9.36,Illicit Drugs
+AZ,12+,25.99,Tobacco
+AZ,12-17,7.93,Tobacco
+AZ,18-25,37.36,Tobacco
+AZ,26+,26.39,Tobacco
+AZ,18+,28.01,Tobacco
+ID,12+,5.29,Marijuana
+ID,12-17,6.21,Marijuana
+ID,18-25,13.09,Marijuana
+ID,26+,3.77,Marijuana
+ID,18+,5.18,Marijuana
+ID,12+,48.97,Alcohol
+ID,12-17,11.31,Alcohol
+ID,18-25,47.76,Alcohol
+ID,26+,54.56,Alcohol
+ID,18+,53.53,Alcohol
+ID,12+,7.17,Illicit Drugs
+ID,12-17,9.00,Illicit Drugs
+ID,18-25,16.34,Illicit Drugs
+ID,26+,5.27,Illicit Drugs
+ID,18+,6.95,Illicit Drugs
+ID,12+,25.90,Tobacco
+ID,12-17,9.25,Tobacco
+ID,18-25,35.30,Tobacco
+ID,26+,26.60,Tobacco
+ID,18+,27.92,Tobacco
+CT,12+,8.44,Marijuana
+CT,12-17,8.72,Marijuana
+CT,18-25,23.66,Marijuana
+CT,26+,6.01,Marijuana
+CT,18+,8.41,Marijuana
+CT,12+,61.74,Alcohol
+CT,12-17,17.63,Alcohol
+CT,18-25,68.86,Alcohol
+CT,26+,66.05,Alcohol
+CT,18+,66.44,Alcohol
+CT,12+,9.58,Illicit Drugs
+CT,12-17,10.34,Illicit Drugs
+CT,18-25,25.68,Illicit Drugs
+CT,26+,6.97,Illicit Drugs
+CT,18+,9.50,Illicit Drugs
+CT,12+,24.69,Tobacco
+CT,12-17,8.44,Tobacco
+CT,18-25,37.70,Tobacco
+CT,26+,24.64,Tobacco
+CT,18+,26.42,Tobacco
+ME,12+,8.38,Marijuana
+ME,12-17,8.94,Marijuana
+ME,18-25,22.66,Marijuana
+ME,26+,6.29,Marijuana
+ME,18+,8.32,Marijuana
+ME,12+,54.04,Alcohol
+ME,12-17,12.44,Alcohol
+ME,18-25,62.82,Alcohol
+ME,26+,57.18,Alcohol
+ME,18+,57.88,Alcohol
+ME,12+,9.95,Illicit Drugs
+ME,12-17,10.81,Illicit Drugs
+ME,18-25,24.28,Illicit Drugs
+ME,26+,7.82,Illicit Drugs
+ME,18+,9.87,Illicit Drugs
+ME,12+,28.46,Tobacco
+ME,12-17,10.09,Tobacco
+ME,18-25,44.04,Tobacco
+ME,26+,28.18,Tobacco
+ME,18+,30.15,Tobacco
+MD,12+,5.81,Marijuana
+MD,12-17,7.54,Marijuana
+MD,18-25,17.53,Marijuana
+MD,26+,3.66,Marijuana
+MD,18+,5.64,Marijuana
+MD,12+,58.19,Alcohol
+MD,12-17,14.67,Alcohol
+MD,18-25,66.08,Alcohol
+MD,26+,62.16,Alcohol
+MD,18+,62.72,Alcohol
+MD,12+,7.30,Illicit Drugs
+MD,12-17,9.13,Illicit Drugs
+MD,18-25,19.22,Illicit Drugs
+MD,26+,5.10,Illicit Drugs
+MD,18+,7.11,Illicit Drugs
+MD,12+,23.39,Tobacco
+MD,12-17,7.53,Tobacco
+MD,18-25,36.29,Tobacco
+MD,26+,23.17,Tobacco
+MD,18+,25.04,Tobacco
+OK,12+,6.04,Marijuana
+OK,12-17,6.37,Marijuana
+OK,18-25,14.14,Marijuana
+OK,26+,4.55,Marijuana
+OK,18+,6.01,Marijuana
+OK,12+,46.22,Alcohol
+OK,12-17,10.68,Alcohol
+OK,18-25,56.23,Alcohol
+OK,26+,49.01,Alcohol
+OK,18+,50.11,Alcohol
+OK,12+,8.36,Illicit Drugs
+OK,12-17,9.24,Illicit Drugs
+OK,18-25,17.60,Illicit Drugs
+OK,26+,6.59,Illicit Drugs
+OK,18+,8.26,Illicit Drugs
+OK,12+,35.11,Tobacco
+OK,12-17,12.33,Tobacco
+OK,18-25,46.83,Tobacco
+OK,26+,35.94,Tobacco
+OK,18+,37.60,Tobacco
+OH,12+,7.37,Marijuana
+OH,12-17,7.53,Marijuana
+OH,18-25,19.22,Marijuana
+OH,26+,5.39,Marijuana
+OH,18+,7.35,Marijuana
+OH,12+,52.41,Alcohol
+OH,12-17,13.62,Alcohol
+OH,18-25,63.11,Alcohol
+OH,26+,55.48,Alcohol
+OH,18+,56.56,Alcohol
+OH,12+,9.53,Illicit Drugs
+OH,12-17,9.83,Illicit Drugs
+OH,18-25,22.06,Illicit Drugs
+OH,26+,7.42,Illicit Drugs
+OH,18+,9.50,Illicit Drugs
+OH,12+,32.20,Tobacco
+OH,12-17,11.57,Tobacco
+OH,18-25,46.18,Tobacco
+OH,26+,32.46,Tobacco
+OH,18+,34.41,Tobacco
+UT,12+,4.41,Marijuana
+UT,12-17,5.12,Marijuana
+UT,18-25,9.83,Marijuana
+UT,26+,3.04,Marijuana
+UT,18+,4.31,Marijuana
+UT,12+,29.61,Alcohol
+UT,12-17,7.50,Alcohol
+UT,18-25,33.42,Alcohol
+UT,26+,32.52,Alcohol
+UT,18+,32.69,Alcohol
+UT,12+,6.01,Illicit Drugs
+UT,12-17,6.73,Illicit Drugs
+UT,18-25,13.05,Illicit Drugs
+UT,26+,4.25,Illicit Drugs
+UT,18+,5.91,Illicit Drugs
+UT,12+,18.94,Tobacco
+UT,12-17,6.24,Tobacco
+UT,18-25,25.10,Tobacco
+UT,26+,19.70,Tobacco
+UT,18+,20.71,Tobacco
+MO,12+,5.94,Marijuana
+MO,12-17,7.28,Marijuana
+MO,18-25,17.41,Marijuana
+MO,26+,3.83,Marijuana
+MO,18+,5.80,Marijuana
+MO,12+,50.89,Alcohol
+MO,12-17,12.83,Alcohol
+MO,18-25,60.57,Alcohol
+MO,26+,53.94,Alcohol
+MO,18+,54.91,Alcohol
+MO,12+,7.46,Illicit Drugs
+MO,12-17,9.59,Illicit Drugs
+MO,18-25,19.41,Illicit Drugs
+MO,26+,5.17,Illicit Drugs
+MO,18+,7.24,Illicit Drugs
+MO,12+,31.76,Tobacco
+MO,12-17,12.28,Tobacco
+MO,18-25,44.39,Tobacco
+MO,26+,32.02,Tobacco
+MO,18+,33.82,Tobacco
+MN,12+,6.30,Marijuana
+MN,12-17,7.27,Marijuana
+MN,18-25,17.58,Marijuana
+MN,26+,4.33,Marijuana
+MN,18+,6.19,Marijuana
+MN,12+,58.57,Alcohol
+MN,12-17,13.10,Alcohol
+MN,18-25,64.24,Alcohol
+MN,26+,63.19,Alcohol
+MN,18+,63.34,Alcohol
+MN,12+,8.27,Illicit Drugs
+MN,12-17,9.40,Illicit Drugs
+MN,18-25,19.18,Illicit Drugs
+MN,26+,6.35,Illicit Drugs
+MN,18+,8.16,Illicit Drugs
+MN,12+,26.84,Tobacco
+MN,12-17,10.56,Tobacco
+MN,18-25,44.04,Tobacco
+MN,26+,26.01,Tobacco
+MN,18+,28.55,Tobacco
+MI,12+,8.89,Marijuana
+MI,12-17,8.89,Marijuana
+MI,18-25,22.13,Marijuana
+MI,26+,6.61,Marijuana
+MI,18+,8.89,Marijuana
+MI,12+,53.74,Alcohol
+MI,12-17,13.35,Alcohol
+MI,18-25,62.30,Alcohol
+MI,26+,57.42,Alcohol
+MI,18+,58.13,Alcohol
+MI,12+,10.89,Illicit Drugs
+MI,12-17,11.67,Illicit Drugs
+MI,18-25,23.76,Illicit Drugs
+MI,26+,8.58,Illicit Drugs
+MI,18+,10.81,Illicit Drugs
+MI,12+,30.77,Tobacco
+MI,12-17,10.77,Tobacco
+MI,18-25,44.30,Tobacco
+MI,26+,30.99,Tobacco
+MI,18+,32.95,Tobacco
+RI,12+,13.00,Marijuana
+RI,12-17,12.44,Marijuana
+RI,18-25,30.16,Marijuana
+RI,26+,9.74,Marijuana
+RI,18+,13.05,Marijuana
+RI,12+,63.35,Alcohol
+RI,12-17,15.74,Alcohol
+RI,18-25,73.46,Alcohol
+RI,26+,66.80,Alcohol
+RI,18+,67.88,Alcohol
+RI,12+,15.61,Illicit Drugs
+RI,12-17,15.16,Illicit Drugs
+RI,18-25,32.88,Illicit Drugs
+RI,26+,12.33,Illicit Drugs
+RI,18+,15.66,Illicit Drugs
+RI,12+,28.05,Tobacco
+RI,12-17,9.97,Tobacco
+RI,18-25,40.49,Tobacco
+RI,26+,27.70,Tobacco
+RI,18+,29.77,Tobacco
+KS,12+,4.06,Marijuana
+KS,12-17,5.47,Marijuana
+KS,18-25,11.34,Marijuana
+KS,26+,2.55,Marijuana
+KS,18+,3.90,Marijuana
+KS,12+,50.74,Alcohol
+KS,12-17,11.69,Alcohol
+KS,18-25,60.14,Alcohol
+KS,26+,54.25,Alcohol
+KS,18+,55.15,Alcohol
+KS,12+,5.43,Illicit Drugs
+KS,12-17,7.27,Illicit Drugs
+KS,18-25,13.54,Illicit Drugs
+KS,26+,3.72,Illicit Drugs
+KS,18+,5.23,Illicit Drugs
+KS,12+,29.60,Tobacco
+KS,12-17,10.46,Tobacco
+KS,18-25,43.80,Tobacco
+KS,26+,29.58,Tobacco
+KS,18+,31.76,Tobacco
+MT,12+,10.45,Marijuana
+MT,12-17,9.56,Marijuana
+MT,18-25,26.51,Marijuana
+MT,26+,7.94,Marijuana
+MT,18+,10.54,Marijuana
+MT,12+,60.20,Alcohol
+MT,12-17,15.49,Alcohol
+MT,18-25,69.06,Alcohol
+MT,26+,63.79,Alcohol
+MT,18+,64.53,Alcohol
+MT,12+,11.54,Illicit Drugs
+MT,12-17,11.98,Illicit Drugs
+MT,18-25,28.10,Illicit Drugs
+MT,26+,8.80,Illicit Drugs
+MT,18+,11.50,Illicit Drugs
+MT,12+,30.98,Tobacco
+MT,12-17,15.47,Tobacco
+MT,18-25,49.68,Tobacco
+MT,26+,29.68,Tobacco
+MT,18+,32.48,Tobacco
+MS,12+,5.80,Marijuana
+MS,12-17,6.32,Marijuana
+MS,18-25,15.86,Marijuana
+MS,26+,3.88,Marijuana
+MS,18+,5.74,Marijuana
+MS,12+,41.17,Alcohol
+MS,12-17,13.01,Alcohol
+MS,18-25,54.10,Alcohol
+MS,26+,42.62,Alcohol
+MS,18+,44.40,Alcohol
+MS,12+,7.78,Illicit Drugs
+MS,12-17,9.17,Illicit Drugs
+MS,18-25,18.08,Illicit Drugs
+MS,26+,5.70,Illicit Drugs
+MS,18+,7.62,Illicit Drugs
+MS,12+,35.53,Tobacco
+MS,12-17,12.86,Tobacco
+MS,18-25,46.46,Tobacco
+MS,26+,36.60,Tobacco
+MS,18+,38.13,Tobacco
+SC,12+,7.20,Marijuana
+SC,12-17,7.24,Marijuana
+SC,18-25,19.24,Marijuana
+SC,26+,5.15,Marijuana
+SC,18+,7.20,Marijuana
+SC,12+,50.32,Alcohol
+SC,12-17,12.18,Alcohol
+SC,18-25,60.54,Alcohol
+SC,26+,53.09,Alcohol
+SC,18+,54.17,Alcohol
+SC,12+,8.90,Illicit Drugs
+SC,12-17,10.16,Illicit Drugs
+SC,18-25,21.31,Illicit Drugs
+SC,26+,6.64,Illicit Drugs
+SC,18+,8.77,Illicit Drugs
+SC,12+,33.22,Tobacco
+SC,12-17,12.18,Tobacco
+SC,18-25,43.86,Tobacco
+SC,26+,33.90,Tobacco
+SC,18+,35.35,Tobacco
+KY,12+,5.63,Marijuana
+KY,12-17,6.06,Marijuana
+KY,18-25,17.35,Marijuana
+KY,26+,3.65,Marijuana
+KY,18+,5.59,Marijuana
+KY,12+,44.51,Alcohol
+KY,12-17,10.88,Alcohol
+KY,18-25,56.07,Alcohol
+KY,26+,46.67,Alcohol
+KY,18+,48.00,Alcohol
+KY,12+,7.21,Illicit Drugs
+KY,12-17,7.89,Illicit Drugs
+KY,18-25,19.13,Illicit Drugs
+KY,26+,5.16,Illicit Drugs
+KY,18+,7.14,Illicit Drugs
+KY,12+,38.45,Tobacco
+KY,12-17,14.50,Tobacco
+KY,18-25,54.07,Tobacco
+KY,26+,38.76,Tobacco
+KY,18+,40.93,Tobacco
+OR,12+,12.16,Marijuana
+OR,12-17,9.86,Marijuana
+OR,18-25,25.81,Marijuana
+OR,26+,10.25,Marijuana
+OR,18+,12.38,Marijuana
+OR,12+,59.08,Alcohol
+OR,12-17,12.50,Alcohol
+OR,18-25,61.99,Alcohol
+OR,26+,63.89,Alcohol
+OR,18+,63.63,Alcohol
+OR,12+,13.86,Illicit Drugs
+OR,12-17,11.73,Illicit Drugs
+OR,18-25,27.79,Illicit Drugs
+OR,26+,11.89,Illicit Drugs
+OR,18+,14.07,Illicit Drugs
+OR,12+,26.34,Tobacco
+OR,12-17,8.91,Tobacco
+OR,18-25,39.04,Tobacco
+OR,26+,26.29,Tobacco
+OR,18+,28.04,Tobacco
+SD,12+,5.79,Marijuana
+SD,12-17,6.44,Marijuana
+SD,18-25,13.95,Marijuana
+SD,26+,4.28,Marijuana
+SD,18+,5.72,Marijuana
+SD,12+,57.29,Alcohol
+SD,12-17,14.13,Alcohol
+SD,18-25,67.82,Alcohol
+SD,26+,60.79,Alcohol
+SD,18+,61.83,Alcohol
+SD,12+,7.01,Illicit Drugs
+SD,12-17,7.67,Illicit Drugs
+SD,18-25,14.87,Illicit Drugs
+SD,26+,5.57,Illicit Drugs
+SD,18+,6.94,Illicit Drugs
+SD,12+,31.76,Tobacco
+SD,12-17,12.40,Tobacco
+SD,18-25,48.23,Tobacco
+SD,26+,31.29,Tobacco
+SD,18+,33.80,Tobacco

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Substance Use</title>
+    <link href="css/dc.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- <link href="http://bootswatch.com/yeti/bootstrap.css" rel="stylesheet"> -->
+    <meta name="description" content="An interactive dashboard to display substance use stats">
+    <meta name="author" content="Brendan J. Herger, 13herger@gmail.com">
+    <meta charset="utf-8">
+</head>
+<body class="background-dark">
+
+
+<!-- Body
+    ************************************************************************************ -->
+
+<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <div class="jumbotron">
+                <h2>
+                    Substance Use 
+                </h2>
+          <!--           <p>Here's some data from <a href = "http://www.samhsa.gov/data/NSDUH/2k12State/NSDUHsae2012/NSDUHsaeStateTabs2012.htm"> SAMHSA</a>. It's all interactive, so feel free to play with it. </p> -->
+
+            </div>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-8 column">
+        </div>
+        <div class="col-md-4 column">
+        </div>
+    </div>
+</div>
+
+<!-- ******************************************************************** -->
+
+
+<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+             <div class="col-sm-8 ">
+                <div class="col-sm-12 ">
+                    <div class="row clearfix">
+                        <div class="col-md-12 column">
+                            <loud>
+                                <div >
+                                </div> 
+                            </loud> 
+                        </div >
+                        
+                        <div class="col-md-12 column">
+                            <h3 class="text-muted" id="chart-avg-pastMonth">
+                                <small>
+                                Percent Use in Last Month (avg. across categories): 
+                                </small>
+                            <div ></div>
+                            </h3>    
+                        </div >
+                    </div>
+                </div>
+                <div class="col-sm-12 ">
+                    <p>
+                        <div id="chart-geo-pastMonth">
+                        </div>
+
+                    </p>
+                    <p class="text-muted"></p>
+                </div>
+            </div>
+
+            <div class="col-sm-4 ">
+
+
+                <div class="well">
+
+
+
+
+                    <div class="col-sm-12 ">
+                        <div class="row clearfix">
+                            <div class="col-md-12 column">
+                                <loud>
+                                    <div id="chart-avg-pastMonth">
+                                    </div> 
+                                </loud> 
+                            </div >
+                        </div>
+                    </div>
+
+                    <h3>Drug Types </h3>
+                    <div class="col-sm-12 ">
+                            <div id="chart-row-drugType">
+                            </div>
+
+                        </p>
+                        <p class="text-muted"></p>
+                    </div>
+                    <div class="col-sm-12 ">
+                        <br>
+                    </div>
+                    <h3>Ages</h3>
+                    <div class="col-sm-12 ">
+                        <p>
+                            <div id="chart-row-age">
+                            </div> 
+                        </p>
+                        <p class="text-muted"></p>
+                    </div>
+                
+
+                    <small> &nbsp </small> <!-- So well performs correctly -->
+                </div>  
+            </div>
+            <!-- <small> &nbsp </small> So well performs correctly -->
+        </div>
+    </div>
+</div>
+
+<!-- ******************************************************************** -->
+
+<!-- dc.js-->
+<script type="text/javascript" src="./js/d3.js"></script>
+<script type="text/javascript" src="./js/crossfilter.js"></script>
+<script type="text/javascript" src="./js/dc.js"></script>
+
+<!-- jquery and friends -->
+<script src="./js/jquery-2.1.1.min.js"> </script>
+
+<!-- bootstrap -->
+<script src="./js/bootstrap.min.js"> </script>
+
+<!-- Page specific javscript -->
+<script type="text/javascript">var filename = "./python/output.csv";</script> <!-- Put your data here  -->
+<script type="text/javascript" src="./js/index2.js"></script>
+
+
+
+</body>
+</html>
